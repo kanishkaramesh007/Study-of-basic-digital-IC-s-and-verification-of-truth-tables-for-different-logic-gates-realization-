@@ -61,10 +61,8 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: kanishka
-RegisterNumber:  
+RegisterNumber: 212223050026
 
-
-![image](https://github.com/kanishkaramesh007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147321636/52c56483-dc4c-43b0-ad45-e62a2425f938)
 Output:
 
 Logic symbol
