@@ -69,13 +69,13 @@ RegisterNumber: 212223050026
 ```
 ## Output:
 
-Logic symbol
+## Logic symbol
 ![image](https://github.com/kanishkaramesh007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147321636/22fa0397-29fc-4d70-b07a-dc529a4e09c1)
 
-& Truthtable
+## Truthtable
 ![image](https://github.com/kanishkaramesh007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147321636/d1c15adc-5d96-43d9-b916-653d7b809cbb)
 
-RTL realization
+## RTL realization
 ![image](https://github.com/kanishkaramesh007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147321636/5adb3efb-5943-41b9-9d37-fbb0850d515b)
 
 ## Result:
