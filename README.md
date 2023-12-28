@@ -62,10 +62,10 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
-Developed by: DEVESH S
+Developed by: kanishka R S
 
-RegisterNumber:  23004345
-*/
+RegisterNumber:  212223050026
+
 
 ![Exp1 code](https://github.com/23004345/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849203/9f01cb8d-c48e-47e4-a807-7409000029d3)
 
