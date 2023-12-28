@@ -58,11 +58,12 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
+```
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: kanishka RS
+Developed by: Kanishka R S
 RegisterNumber: 212223050026
-
+*/
 Output:
 
 Logic symbol
@@ -73,7 +74,7 @@ Logic symbol
 
 RTL realization
 ![image](https://github.com/kanishkaramesh007/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147321636/5adb3efb-5943-41b9-9d37-fbb0850d515b)
-
+```
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
